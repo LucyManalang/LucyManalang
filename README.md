@@ -1,20 +1,20 @@
-# Hi, I'm Lucy!
+# Hi, I'm Lucy!  
 
 → **Rising Junior at Macalester College**  
 → **Computer Science Major | Studio Arts Minor**  
 → **Researcher, ML/AI Fellow, and HCI Enthusiast**  
 
-I’m passionate about building thoughtful, user-centered software—especially where tech meets design, education, and accessibility. Whether it’s working on extended reality research, mentoring peers as a Head TA, or learning about machine learning and AI through Break Through Tech @ Cornell Tech, I thrive in spaces that blend technical rigor with creative impact.
+I’m passionate about building thoughtful, user-centered software—especially where tech meets design, education, and accessibility. Whether it’s working on extended reality research, mentoring peers as a Head TA, or learning about machine learning and AI through Break Through Tech @ Cornell Tech, I thrive in spaces that blend technical rigor with creative impact.  
 
 Currently, I’m exploring how HCI principles can enhance interaction in 2D/3D XR environments and designing systems that support learning and productivity.
 
 ---
 
-## Current Research
-**XR Drawing App – Macalester & University of Minnesota**
+## Current Research  
+**XR Drawing App – Macalester & University of Minnesota**  
 → Implementing observation-based features for interaction between 2D and 3D in Unity  
 → Focused on usability and human-computer interaction principles  
-→ Tools: Unity, C#, Figma
+→ Tools: Unity, C#, Figma  
 
 
 ## Academic Highlights  
@@ -23,13 +23,13 @@ Currently, I’m exploring how HCI principles can enhance interaction in 2D/3D X
 → Head TA for Data Structures  
 → Lealtad Merit Scholar  
 → Dean’s List: Fall ’23, Fall ’24, Spring ’25  
-→ On track to graduate Summa Cum Laude
+→ On track to graduate Summa Cum Laude  
 
 
 ## Tech Stack
-**Languages**: Java, Python, C, Swift, C\#, JavaScript, HTML/CSS
-**Frameworks**: React, Node.js, JUnit, TailwindCSS, PyTorch, pandas, NumPy 
-**Developer Tools**: Git, Unity, Figma, Bash
+**Languages**: Java, Python, C, Swift, C\#, JavaScript, HTML/CSS  
+**Frameworks**: React, Node.js, JUnit, TailwindCSS, PyTorch, Pandas, scikit-learn, NumPy, matplotlib, spaCy  
+**Developer Tools**: Git, Unity, Figma, Bash, Jupyter Notebooks  
 
 
 ## Recent Projects
@@ -45,7 +45,7 @@ Currently, I’m exploring how HCI principles can enhance interaction in 2D/3D X
 - Built a responsive portfolio site using React and TailwindCSS  
 - Featured interactive elements like light/dark mode and a Sudoku Solver in TypeScript  
 - Focused on usable, visually engaging design with performance in mind  
-- 🌐 [View Live Site](https://manalang.me)
+- [View Live Site](https://manalang.me)  
 
 ---
 
