@@ -1,21 +1,12 @@
 # Hi, I'm Lucy!  
 
-→ **Rising Junior at Macalester College**  
+→ **Junior at Macalester College**  
 → **Computer Science Major | Studio Arts Minor**  
-→ **Researcher, ML/AI Fellow, and HCI Enthusiast**  
+→ **Teacher's Assistant | ML/AI Fellow**  
 
 I’m passionate about building thoughtful, user-centered software—especially where tech meets design, education, and accessibility. Whether it’s working on extended reality research, mentoring peers as a Head TA, or learning about machine learning and AI through Break Through Tech @ Cornell Tech, I thrive in spaces that blend technical rigor with creative impact.  
 
-Currently, I’m exploring how HCI principles can enhance interaction in 2D/3D XR environments and designing systems that support learning and productivity.
-
 ---
-
-## Current Research  
-**XR Drawing App – Macalester & University of Minnesota**  
-→ Implementing observation-based features for interaction between 2D and 3D in Unity  
-→ Focused on usability and human-computer interaction principles  
-→ Tools: Unity, C#, Figma  
-
 
 ## Academic Highlights  
 → ML/AI Fellow @ Break Through Tech, Cornell Tech  
@@ -24,6 +15,13 @@ Currently, I’m exploring how HCI principles can enhance interaction in 2D/3D X
 → Lealtad Merit Scholar  
 → Dean’s List: Fall ’23, Fall ’24, Spring ’25  
 → On track to graduate Summa Cum Laude  
+
+
+## Past Research  
+**XR Drawing App – Macalester & University of Minnesota**  
+→ Implementing observation-based features for interaction between 2D and 3D in Unity  
+→ Focused on usability and human-computer interaction principles  
+→ Tools: Unity, C#  
 
 
 ## Tech Stack
@@ -51,7 +49,7 @@ Currently, I’m exploring how HCI principles can enhance interaction in 2D/3D X
 
 💬 Let’s Connect!  
 🔗 LinkedIn: [linkedin.com/in/lucymanalang](https://linkedin.com/in/lucymanalang)  
-📂 Portfolio https://manalang.me
+📂 Portfolio [https://manalang.me](https://manalang.me)
 
 
 
